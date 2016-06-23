@@ -1,0 +1,122 @@
+/*
+     FILE ARCHIVED ON 17:16:32 ينا 8, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 4:26:32 يون 23, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+#Zoomarabic-SNS {
+width: 250px;
+margin: 5px 0px;
+padding:5px;
+font-size: 13px;
+color: #222;
+}
+#Zoomarabic-SNS li {
+cursor: pointer;
+height: 48px;
+position: relative;
+list-style-type: none;
+}
+#Zoomarabic-SNS .icon {
+background: #D91E76 url('/web/20140108171632/http://3.bp.blogspot.com/-unjaHZfdU1k/UK7b1J4pfOI/AAAAAAAAAzA/r7ccqS2FovU/s1600/Zoomarabic-SNS.png') 0 0 no-repeat;
+background-color: rgba(217, 30, 118, .42);
+border-radius: 30px;
+display: block;
+color: #141414;
+float:none;
+height: 48px;
+line-height: 48px;
+margin: 5px 0;
+position: relative;
+text-align: right;
+text-indent: 90px;
+text-shadow: #333 0 1px 0;
+white-space: nowrap;
+width: 48px;z-index: 5;
+-webkit-transition: width .25s ease-in-out, background-color .25s ease-in-out;
+-moz-transition: width .25s ease-in-out, background-color .25s ease-in-out;
+-o-transition: width .25s ease-in-out, background-color .25s ease-in-out;
+transition: width .25s ease-in-out, background-color .25s ease-in-out;
+-webkit-box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+-moz-box-shadow: rgba(0,0,0, .28) 0 2px 3px; -o-box-shadow: rgba(0,0,0, .28) 0 2px 3px;
+box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+text-decoration: none;
+}
+#Zoomarabic-SNS span:hover {
+visibility: hidden;
+}
+#Zoomarabic-SNS span {
+display: block;
+top: 15px;position: absolute;
+right: 90px;
+}
+#Zoomarabic-SNS .icon {
+color: #fafafa;
+overflow: hidden;
+}
+#Zoomarabic-SNS .fb {
+background-color: rgba(45,118,200, .42);
+background-position: 0 -382px;
+}
+#Zoomarabic-SNS .twit {
+background-color: rgba(0, 161, 223, .42);
+background-position: 0 -430px;
+}
+#Zoomarabic-SNS .google {
+background-color: rgba(167, 0, 0, .42);
+background-position: 0 -478px;
+}
+#Zoomarabic-SNS .pint {
+background-color: rgba(204, 0, 0, .42);
+background-position: 0 -526px;
+}
+#Zoomarabic-SNS .linked {
+background-color: rgba(0, 87, 114, .42);
+background-position: 0 -574px;
+}
+#Zoomarabic-SNS .deviant {
+background-color: rgba(76, 122, 74, .42);
+background-position: 0 -622px;
+}
+#Zoomarabic-SNS .ytube {
+background-color: rgba(170, 0, 0, .42);
+background-position: 0 -670px;
+}
+#Zoomarabic-SNS .rss {
+background-color: rgba(255,109, 0, .42);
+background-position: 0 -718px;
+}
+#Zoomarabic-SNS li:hover .icon {
+width: 250px;
+}
+#Zoomarabic-SNS li:hover .icon {
+background-color: #d91e76;
+}
+#Zoomarabic-SNS li:hover .fb {
+background-color: #2d76b9;
+background-position: 0 2px;
+}
+#Zoomarabic-SNS li:hover .twit {
+background-color: #00A1DF;
+background-position: 0 -46px;
+}
+#Zoomarabic-SNS li:hover .google {
+background-color: #A70000;
+background-position: 0 -94px;
+}
+#Zoomarabic-SNS li:hover .ytube {
+background-color: #A00;
+background-position: 0 -286px;
+}
+#Zoomarabic-SNS li:hover .rss {
+background-color: #EC5601;
+background-position: 0 -334px;
+}
+#Zoomarabic-SNS .icon:active {
+bottom: -2px;-webkit-box-shadow: none;
+-moz-box-shadow: none;
+-o-box-shadow: none;
+}
